@@ -1,0 +1,28 @@
+EM_A: Ken
+P_SS: Andrew	
+S_NE: 231
+S_ID: 855393
+SPRG: 123512
+C_TN: 123
+G_RD: 23
+ADDS: 512
+B_DY: 23
+DATE: 2023-11-21
+PIC_: src//pictures//Ken.png
+YEAR: 16
+B_IO: 12
+-------------------------------------------------
+EM_A: 1
+P_SS: 1
+S_NE: asd
+S_ID: 367536
+SPRG: assd
+C_TN: asd
+G_RD: sa
+ADDS: 2
+B_DY: 2
+DATE: 2023-11-21
+PIC_: src//pictures//Ken.png
+YEAR: s
+B_IO: a
+-------------------------------------------------
